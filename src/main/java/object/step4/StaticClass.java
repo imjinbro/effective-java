@@ -1,4 +1,4 @@
-package step4;
+package object.step4;
 
 /*
 	static class를 운영한다면, 불필요한 객체 생성을 막기 위해 private 기본 생성자를 만들어줌

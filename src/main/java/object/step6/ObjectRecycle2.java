@@ -1,4 +1,4 @@
-package step6;
+package object.step6;
 
 import java.util.regex.Pattern;
 

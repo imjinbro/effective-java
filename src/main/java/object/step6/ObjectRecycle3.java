@@ -1,4 +1,4 @@
-package step6;
+package object.step6;
 
 public class ObjectRecycle3 {
 

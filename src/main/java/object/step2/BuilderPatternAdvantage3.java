@@ -1,6 +1,6 @@
-package step2;
+package object.step2;
 
-public class BuilderPatternAdvantage2 {
+public class BuilderPatternAdvantage3 {
 
 	/*
 		같은 타입의 파라미터가 여러개인 생성자 호출 시 잘못 데이터를 넣을 위험 있음

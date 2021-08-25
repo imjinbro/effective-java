@@ -1,4 +1,4 @@
-package step3;
+package object.step3;
 
 /*
 	enum을 통해서 더 간결하고 확실하게 싱글톤 유지 가능함

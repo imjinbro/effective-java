@@ -1,4 +1,4 @@
-package step1;
+package object.step1;
 
 public class StaticConstructorDisAdvantage2 {
 

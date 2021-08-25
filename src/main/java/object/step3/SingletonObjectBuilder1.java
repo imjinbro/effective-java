@@ -1,4 +1,4 @@
-package step3;
+package object.step3;
 
 /*
 	싱글톤으로 유지하기 위해서는 철저하게 생성을 막을 수 있어야함
