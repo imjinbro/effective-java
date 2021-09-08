@@ -1,4 +1,4 @@
-package object_class;
+package object_class.step10;
 
 import java.util.Objects;
 import org.junit.jupiter.api.Test;

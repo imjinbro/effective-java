@@ -1,4 +1,4 @@
-package object_class;
+package object_class.step11;
 
 import lombok.EqualsAndHashCode;
 

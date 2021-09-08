@@ -1,4 +1,4 @@
-package object_class;
+package object_class.step12;
 
 import lombok.ToString;
 import org.junit.jupiter.api.Test;
