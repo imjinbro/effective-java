@@ -21,6 +21,8 @@ dependencies {
     testAnnotationProcessor group: 'org.projectlombok', name: 'lombok', version: '1.18.10'
 
     implementation group: 'com.google.guava', name: 'guava', version: '23.0'
+
+    implementation group: 'org.springframework.boot', name: 'spring-boot-starter-web', version: '2.5.1' // 스프링부트 내부에 좋은 디펜던시가 많으므로 사용
 }
 
 test {
